@@ -27,7 +27,7 @@ public class WordCRUD implements ICRUD{
     public void addItem(){
         Word one = (Word)add();
         list.add(one);
-        System.out.println("새 단어가 단어장에 추가되었습니다 !!! ");
+        System.out.println("\n새 단어가 단어장에 추가되었습니다 !!! ");
     }
     @Override
     public int update(Object obj) {
@@ -145,13 +145,11 @@ public class WordCRUD implements ICRUD{
             e.printStackTrace();
         }
     }
-
     public void searchLevel() {
         System.out.print("=> 원하는 레벨은? (1~3) ");
         int level = s.nextInt();
         listAll(level);
     }
-
     public void searchWord() {
         System.out.print("=> 원하는 단어는? ");
         String keyword = s.next();
