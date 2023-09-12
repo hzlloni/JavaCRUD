@@ -21,3 +21,4 @@
 2|	accident|   뜻밖의 사건
 1|	accommodate|	수용하다
 1|	accompany|	동반하다
+1|  hello|  안녕
