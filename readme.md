@@ -8,6 +8,6 @@
 아래에는 각각의 예시 screenshot입니다. 
 
 ----------------------------------------------------------
-<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshot/screenshot1.png?raw=true">
-<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshot/screenshot2.png?raw=true">
-<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshot/screenshot3.png?raw=true">
+<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshots/screenshot1.png?raw=true">
+<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshots/screenshot2.png?raw=true">
+<img width = "200" src="https://github.com/hzlloni/javaCRUD/blob/master/Screenshots/screenshot3.png?raw=true">
